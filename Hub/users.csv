@@ -1,0 +1,4 @@
+id,username,password,loggedin
+0,om,om,True
+1,tu,tu,False
+0,mri,mri,False
